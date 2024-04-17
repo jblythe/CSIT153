@@ -4,7 +4,7 @@
     {
       "role": "roles/bigquery.jobUser",
       "members": [
-        "user:jason@datageeq.com"
+        "user:farrukhnizam.7@hotmail.com"
       ]
     }
   ]
